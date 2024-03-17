@@ -1,0 +1,23 @@
+package.json is the configuration for the npm
+
+cdn links are not good way to fetch react
+
+
+
+
+npm is a package manager
+
+
+two types of dependecy
+
+dev dependecy - required for development phase
+normal dependecy - used in production also
+
+
+What's the difference between tilde(~) and caret(^) in package.json?
+
+Transitive dependecy
+
+npm simialar npx
+npm - install the package
+npx - executing the package
